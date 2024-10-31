@@ -1,3 +1,8 @@
+## October 8, 2024
+* **Enhancement**: Mutation Assessor V4 data is available in the portal.
+See new V4 Mutation Assessor data on _Results View_ page _Mutations_ tab ([Example: BRAF in MSK-IMPACT Clinical Sequencing Cohort](https://www.cbioportal.org/results/mutations?cancer_study_list=msk_impact_2017&Z_SCORE_THRESHOLD=2.0&RPPA_SCORE_THRESHOLD=2.0&profileFilter=mutations%2Cstructural_variants%2Ccna&case_set_id=msk_impact_2017_cnaseq&gene_list=BRAF&geneset_list=%20&tab_index=tab_visualize&Action=Submit), click `Columns` button to add `Functional Impact` column), and [mutation mapper tool](https://www.cbioportal.org/mutation_mapper).
+![image](https://github.com/user-attachments/assets/43037c36-0cbd-4425-af97-d8519767573f)
+
 ## September 27, 2024
 *   **Added data** consisting of 2,409 samples from 10 studies:
 	* [Pediatric European MAPPYACTS Trial (Gustave Roussy, Cancer Discov 2022)](https://www.cbioportal.org/study/summary?id=pancan_mappyacts_2022) *786 samples*
